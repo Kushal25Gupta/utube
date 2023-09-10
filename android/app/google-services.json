@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972695843902",
+    "project_id": "utube-777ba",
+    "storage_bucket": "utube-777ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972695843902:android:c54c7ab4f838c5b7a2cd6f",
+        "android_client_info": {
+          "package_name": "com.kushalgupta.utube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Fqe1KFsPROvcbiV0crShzjwJW3fCsRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

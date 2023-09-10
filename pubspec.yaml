@@ -1,0 +1,52 @@
+name: utube
+description: An app where users can view videos, like, comment and upload videos
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get: ^4.6.5
+  pinput: ^3.0.1
+  timeago: ^3.5.0
+  geocoding: ^2.1.0
+  geolocator: ^10.0.0
+  fluttertoast: ^8.2.2
+  image_picker: ^1.0.4
+  google_fonts: ^5.1.0
+  video_player: ^2.7.1
+  firebase_auth: ^4.8.0
+  video_compress: ^3.1.2
+  firebase_core: ^2.15.1
+  cupertino_icons: ^1.0.2
+  cloud_firestore: ^4.9.0
+  country_picker: ^2.0.20
+  firebase_storage: ^11.2.6
+  permission_handler: ^10.4.3
+  cached_network_image: ^3.2.3
+  modal_progress_hud_nsn: ^0.4.0
+  simple_circular_progress_bar: ^1.0.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/images/logo2.png
+    - assets/images/upload.png
+    - assets/images/profile_avatar.jpg
+  fonts:
+    - family: Anton
+      fonts:
+        - asset: assets/fonts/Anton-Regular.ttf
+
