@@ -1,4 +1,4 @@
-# infent
+# Utube
 
 An app where users can view videos, like, comment and upload videos
 
