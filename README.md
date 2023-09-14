@@ -24,7 +24,7 @@
 
 As a student, I've poured my dedication and skills into this project, creating a feature-rich app that showcases my commitment to innovation and user experience. I'm eager to connect with fellow professionals, explore collaboration opportunities, and continue to grow as a developer."
 
-![1](https://github.com/Kushal25Gupta/utube/assets/98273013/fe513cd7-2a69-4891-bb21-a563032205c6) 
+![1](https://github.com/Kushal25Gupta/utube/assets/98273013/fe513cd7-2a69-4891-bb21-a563032205c6)
 ![2](https://github.com/Kushal25Gupta/utube/assets/98273013/fb8769bf-7926-4aaf-aa91-7061946b8d23)
 ![3](https://github.com/Kushal25Gupta/utube/assets/98273013/0638b88d-e017-45aa-856e-4ca310744ae0)
 ![4](https://github.com/Kushal25Gupta/utube/assets/98273013/98ef21e4-86f3-478c-aa5b-b0b1d1dca059)
